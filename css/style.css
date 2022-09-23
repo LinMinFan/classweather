@@ -1,0 +1,9 @@
+*{
+    box-sizing: border-box;
+}
+.mg{
+    margin: 0 auto;
+}
+.ct{
+    text-align: center;
+}
